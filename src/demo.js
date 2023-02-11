@@ -356,7 +356,7 @@ lineShifter(14);
 tetrisRenderer();
 
 const head = `
-<svg width="90" height="180">
+<svg width="90" height="180" xmlns="http://www.w3.org/2000/svg">
       <style>
 `;
 
